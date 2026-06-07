@@ -17,20 +17,27 @@ Tambahkan validation rules advanced untuk field-field tertentu.
 
 ---
 
-## Tugas 2: Blade Component untuk Card Buku
-Buat Blade Component reusable untuk menampilkan card buku.
+### Conditional Validation
 
-### Daftar Buku
-
-![Daftar Buku](images-pw11/daftar_buku.png)
+![Conditional Validation](images-pw-12/conditioanl_validation.png)
 
 ---
 
-### Show Action Detail
 
-![Show Act Detail](images-pw11/show_act_detail.png)
+## Tugas 2: Bulk Delete Operations
+Implementasi fitur delete multiple buku sekaligus.
+
+### Select All Checkbox 
+
+![Bulk Delete](images-pw-12/bulk_delete1.png)
+![Bulk Delete](images-pw-12/bulk_delete2.png)
 
 ---
 
-## Tugas 3: Search & Filter Buku Advanced
-Tambahkan fitur pencarian dan filter advanced untuk buku.
+## Export Buku ke CSV
+Tambahkan fitur export data buku ke file CSV.
+
+### Dokumentasi setelah menjalankan Export ke CSV
+
+![Export CSV](images-pw-12/export_csv.png)
+
