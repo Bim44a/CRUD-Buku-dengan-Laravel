@@ -13,7 +13,7 @@ Tambahkan validation rules advanced untuk field-field tertentu.
 
 ### Custom Validation Rule untuk Kode Buku
 
-![Kode Buku](images-pw12/validasi_buku.png)
+![Validasi Buku](images-pw-12/validasi_buku.png)
 
 ---
 
