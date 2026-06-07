@@ -19,7 +19,7 @@ Tambahkan validation rules advanced untuk field-field tertentu.
 
 ### Conditional Validation
 
-![Conditional Validation](images-pw-12/conditioanl_validation.png)
+![Conditional Validation](images-pw-12/conditional_validation.png)
 
 ---
 
@@ -29,8 +29,8 @@ Implementasi fitur delete multiple buku sekaligus.
 
 ### Select All Checkbox 
 
-![Bulk Delete](images-pw-12/bulk_delete1.png)
-![Bulk Delete](images-pw-12/bulk_delete2.png)
+![Bulk Delete](images-pw-12/bulk-delete1.png)
+![Bulk Delete](images-pw-12/bulk-delete2.png)
 
 ---
 
